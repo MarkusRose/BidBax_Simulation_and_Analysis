@@ -1,0 +1,3 @@
+[submodule "ConfocalSimulation"]
+	path = ConfocalSimulation
+	url = git@github.com:MarkusRose/ConfocalSimulation.git
